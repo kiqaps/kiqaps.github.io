@@ -1,5 +1,6 @@
 {
   "role": "FullStack Developer",
+  "aboutMe": "Hi, I am Caíque, I was born at February 1, 1994. I have a degree in Computer Science at Universidade Federal de Goiás and I am currently a fullstack developer. My first contact with programming was around the age of 12 when I discovered that I could modify certain behaviors of a game I played by writing some instructions, it fascinated me and made me choose my course in college. I don't really like to limit myself to being a developer of X language/technology because I always like to be learning new things so if I have a problem and I need to develop a solution using a specific technology, even if I haven't had contact with that technology, for me it is not a problem: I will study it until I feel comfortable enough to use it in the solution. Currently JavaScript/TypeScript (and its entire stack) is my preferred choice.",
   "sections": {
     "titles": {
       "work_experience": "Work Experience",
@@ -10,7 +11,12 @@
       "work_experience": [
         {
           "role": "FullStack Developer",
-          "whereAndWhen": "iRancho / dec 2019 - current",
+          "whereAndWhen": "Deal / aug 2020 - current",
+          "description": "Working at ICTS, a company that provides several solutions for the risk management area. Responsible for the initial development of CI Analysis and participant in the RiskCheck development team. Working with the follow stack/technologies: PHP (Laravel 7/8), React, StyledComponents, MySQL, Postgres, Python, Robot Framework, Playwright, RabbitMQ e Jenkins."
+        },
+        {
+          "role": "FullStack Developer",
+          "whereAndWhen": "iRancho / dec 2019 - aug 2020",
           "description": "FullStack Developer working with stack fully based on JavaScript (NodeJS, Express, Sequelize and MySQL at backend; VueJS, ElementUI and Bootstrap at frontend) in iRancho, an beef cattle management application."
         },
         {

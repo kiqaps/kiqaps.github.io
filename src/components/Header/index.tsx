@@ -31,6 +31,11 @@ const InfoRow = styled.div`
   }
 `
 
+const AboutMeContainer = styled(InfoRow)`
+  margin-top: 15px;
+  text-align: justify;
+`
+
 const SocialMediaContainer = styled.span`
   display: flex;
 
@@ -78,5 +83,9 @@ export const Header: FC = () => {
       <span>{t('role')}</span>
       <span><strong>E-mail</strong>: kiqaps[at]gmail[dot]com</span>
     </InfoRow>
+
+    <AboutMeContainer>
+      {t('aboutMe')}
+    </AboutMeContainer>
   </>
 }

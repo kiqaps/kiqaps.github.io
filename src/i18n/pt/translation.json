@@ -1,5 +1,6 @@
 {
   "role": "Desenvolvedor FullStack",
+  "aboutMe": "Olá, eu sou o Caíque, nasci no primeiro dia de Fevereiro de 1994, sou formado em Ciência da Computação pela Universidade Federal de Goiás e atualmente sou um desenvolvedor fullstack. Meu primeiro contato com programação foi por volta dos 12 anos quando descobri que poderia modificar certos comportamentos de um jogo que eu jogava escrevendo algumas instruções, aquilo me fascinou e me fez escolher o meu curso na faculdade. Eu não gosto muito de me limitar a ser um desenvolvedor de X linguagem/tecnologia porque gosto sempre de estar aprendendo coisas novas então se tenho algum problema e preciso desenvolver uma solução utilizando uma tecnologia específica, mesmo que eu não tenha tido contato com essa tecnologia, pra mim não é um problema: vou estudá-la a ponto de me sentir confortável para utilizá-la na solução. Atualmente JavaScript/TypeScript (e toda sua stack) é minha escolha preferida.",
   "sections": {
     "titles": {
       "work_experience": "Experiência Profissional",
@@ -10,7 +11,12 @@
       "work_experience": [
         {
           "role": "Desenvolvedor FullStack",
-          "whereAndWhen": "iRancho / dez 2019 - atualmente",
+          "whereAndWhen": "Deal / ago 2020 - atualmente",
+          "description": "Trabalhando na ICTS, uma empresa que fornece diversas soluções para área de gestão de risco. Responsável pelo desenvolvimento inicial do Análise CI e participante do time de desenvolvimento do RiskCheck. Stack utilizada no desenvolvimento desses projetos: PHP (Laravel 7/8), React, StyledComponents, MySQL, Postgres, Python, Robot Framework, Playwright, RabbitMQ e Jenkins."
+        },
+        {
+          "role": "Desenvolvedor FullStack",
+          "whereAndWhen": "iRancho / dez 2019 - ago 2020",
           "description": "Desenvolvedor FullStack trabalhando com toda stack no JavaScript (NodeJS, Express, Sequelize e MySQL no backend; VueJS, ElementUI e Bootstrap no frontend) no iRancho, uma aplicação para gestão de pecuária de corte."
         },
         {
